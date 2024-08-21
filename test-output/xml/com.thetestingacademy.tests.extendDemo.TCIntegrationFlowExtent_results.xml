@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationFrameworkATB6x"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.378">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreateBooking"
+                time="15.004"
+                classname="com.thetestingacademy.tests.extendDemo.TCIntegrationFlowExtent">
+            </testcase>
+            <testcase
+                name="testDeleteBookingById"
+                time="1.089"
+                classname="com.thetestingacademy.tests.extendDemo.TCIntegrationFlowExtent">
+            </testcase>
+            <testcase
+                name="testVerifyBookingId"
+                time="1.142"
+                classname="com.thetestingacademy.tests.extendDemo.TCIntegrationFlowExtent">
+            </testcase>
+            <testcase
+                name="testUpdateBookingByID"
+                time="1.143"
+                classname="com.thetestingacademy.tests.extendDemo.TCIntegrationFlowExtent">
+            </testcase>
+</testsuite>

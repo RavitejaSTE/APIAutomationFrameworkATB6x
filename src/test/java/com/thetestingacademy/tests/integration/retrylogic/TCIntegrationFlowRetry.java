@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests.integration;
+package com.thetestingacademy.tests.integration.retrylogic;
 
 import com.thetestingacademy.base.BaseTest;
 import com.thetestingacademy.endpoints.APIConstants;
@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class TCIntegrationFlow extends BaseTest {
+public class TCIntegrationFlowRetry extends BaseTest {
 
     // Create A Booking, Create a Token
     // Get booking
